@@ -1,3 +1,5 @@
 nathan is cool
 
 now causing a merge conflict!
+
+now making a change through the GitHub website!
