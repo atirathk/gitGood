@@ -1,1 +1,3 @@
 nathan is cool
+
+now causing a merge conflict
